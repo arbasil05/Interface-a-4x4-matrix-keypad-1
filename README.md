@@ -7,7 +7,7 @@ To simulate the interface of a 4x4 matrix keypad to ARM controller and display t
 STM32 CUBE IDE, Proteus 8 simulator .
 
 ## Keypad layout
-![Keypad](https://github.com/Sripriya-Ranganathan/Interfacing-4x4-matrix-keypad/assets/139522903/b66a0414-4590-41d0-bb83-48588ee380b9)
+![image](https://github.com/user-attachments/assets/5479b0c7-3c87-4f17-88f3-2aff6268e632)
 
 ## CIRCUIT DIAGRAM 
 ![image](https://github.com/user-attachments/assets/e4aaeb52-ce4e-4ced-8362-560cd211aff0)
